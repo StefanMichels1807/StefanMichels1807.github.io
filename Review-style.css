@@ -1,8 +1,26 @@
 body {
 	text-align: center;
+	font-family: "Lucida Handwriting";
 }
 
 .Link-List {
 			display: inline-block;
 			text-align: left;
+}
+
+.Headline, .img-Headline, .Funfact, .img-Text-Headline  {
+			background-color: red;
+			
+}
+
+div:hover {
+				color: violet;
+}
+
+img {
+			border-radius: 50%;
+}
+
+ul {
+	list-style-type: circle;
 }
