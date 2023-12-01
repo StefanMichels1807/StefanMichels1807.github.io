@@ -1,24 +1,26 @@
 body {
 	text-align: center;
 	font-family: "Lucida Handwriting";
+	background-image: url("Summonersrift.jpg");
 }
 
 .Link-List {
 			display: inline-block;
 			text-align: left;
+			
 }
 
 .Headline, .img-Headline, .Funfact, .img-Text-Headline  {
-			background-color: red;
+														background-color: red;
 			
 }
 
 div:hover {
-				color: violet;
+			color: violet;
 }
 
 img {
-			border-radius: 50%;
+	border-radius: 50%;
 }
 
 ul {
